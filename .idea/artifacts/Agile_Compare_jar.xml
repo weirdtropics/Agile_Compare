@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Agile_Compare:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Agile_Compare_jar</output-path>
+    <root id="archive" name="Agile_Compare.jar">
+      <element id="module-output" name="Agile_Compare" />
+    </root>
+  </artifact>
+</component>
